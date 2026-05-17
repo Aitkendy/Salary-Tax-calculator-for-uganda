@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
     <head>
         <meta charset="UTF-8">
@@ -252,7 +252,7 @@
 
         <hr class="footer-divider">
 
-        <p>&copy; 2026 Built by Opiyo David | Computer Science Portfolio Project</p>
+        <p>&copy; 2026 call +256 783026044 for your custo-made website</p>
         
         <p class="disclaimer">
             <small><strong>Disclaimer:</strong> This website is an independent, unofficial tool built for educational purposes. It is not affiliated with, authorized, or endorsed by the Uganda Revenue Authority (URA) or the National Social Security Fund (NSSF). Calculations are approximations and should not be treated as official financial advice.</small>
